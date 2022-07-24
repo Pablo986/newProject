@@ -1,2 +1,2 @@
-# learn-code
-In the beginning of coding. 
+# newProject
+Day one.
